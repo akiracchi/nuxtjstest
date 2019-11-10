@@ -1,17 +1,9 @@
 <template>
   <section class="section">
     <div class="columns is-mobile">
-      <card
-        title="Free"
-        icon="github-circle"
-      >
-        Open source on <a href="https://github.com/buefy/buefy">
-          GitHub
-        </a>
-      </card>
 
       <card
-        title="Responsive"
+        title="レスポンシブ"
         icon="cellphone-link"
       >
         <b class="has-text-grey">
@@ -20,7 +12,7 @@
       </card>
 
       <card
-        title="Modern"
+        title="モダン"
         icon="alert-decagram"
       >
         Built with <a href="https://vuejs.org/">
@@ -31,7 +23,7 @@
       </card>
 
       <card
-        title="Lightweight"
+        title="ライトウェイト"
         icon="arrange-bring-to-front"
       >
         No other internal dependency
